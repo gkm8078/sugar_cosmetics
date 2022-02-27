@@ -1,0 +1,165 @@
+#footer{
+    width: 100%;
+    height: 620px;
+    background-color: black;
+    color: white;
+}
+
+#div1{
+    margin: auto;
+    width: 120px;
+    height: 120px;
+    
+}
+
+#div1>img{
+    height: 120px;
+    width: 120px;
+}
+
+#div2{
+    height: 20px;
+    width: 200px;
+    margin: auto;
+    display: flex;
+}
+
+#div2>img{
+    width: 20px;
+    height: 20px;
+    margin-right: 11px;
+}
+
+#div3{
+    width: 900px;
+    height: 30px;
+    margin-left: 100px;
+    margin-top: 30px;
+    display: flex;
+}
+
+#div3>div:first-child{
+    justify-content: flex-start;
+}
+
+#div3>div:last-child{
+    justify-content: flex-end;
+    margin-left: 330px;
+}
+
+#div4{
+    width: 1100px;
+    height: 60px;
+    margin-left: 100px;
+    margin-top: 5px;
+    display: flex;
+}
+
+#div4>input{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    border: none;
+    width: 260px;
+    height: 60px;
+}
+
+#div4>button{
+    background-color: deeppink;
+    color: white;
+    border: deeppink;
+    width: 93.38px;
+    height: 40px;
+    border-radius: 7px;
+    margin-top: 20px;
+}
+
+#div4>div{
+    width: 206px;
+    height: 48px;
+    color: gray;
+    margin-left: 250px;
+    margin-top: 7px;
+}
+
+#div4>img:nth-child(4){
+    width: 99.88px;
+    height:30px ;
+    margin-top: 4px;
+    margin-right: 8px;
+}
+
+#div4>img:nth-child(5){
+    width: 87.52px;
+    height:30px ;
+    margin-top: 4px;
+}
+
+#hr{
+    margin-left: 100px;
+    width: 260px;
+}
+
+#div5,#div7{
+    width: 1140px;
+    height: 20.39px;
+    font-size: 17px;
+    margin: 0px 0px 8px;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+
+#div6{
+    width: 1140px;
+    height: 24px;
+    font-size: 16px;
+    margin: 0px 0px 8px;
+    margin-top: 15px;
+    margin-left: 100px;
+    display: flex;
+    color: gray;
+}
+
+#div6>div{
+    margin-right: 90px;
+}
+#div8{
+    width: 1270px;
+    height: 90px;
+    margin-left: 100px;
+    margin-top: 20px;
+    display: flex;
+    color: white;
+}
+#cate1{
+    color: gray;
+    padding-top: 5px;
+}
+#cate2{
+    color: gray;
+    font-size: 13px;
+    padding-top: 5px;
+}
+#parentdiv81{
+    display: flex;
+}
+#parentdiv81>img{
+    width: 15px;
+    height: 15px;
+}
+#div8>div{
+    margin-right: 60px;
+}
+#hr2{
+    margin-left: 70px;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+#div9{
+    width: 1140px;
+    height: 20.39px;
+    font-size: 17px;
+    margin: auto;
+    margin-top: 30px;
+    margin-left: 500px;
+}
